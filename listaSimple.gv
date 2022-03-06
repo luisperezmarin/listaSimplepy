@@ -1,0 +1,12 @@
+// Lista simple
+digraph {
+	head [label=head]
+	7 [label=7]
+	head -> 7
+	6 [label=6]
+	head -> 6
+	4 [label=4]
+	head -> 4
+	2 [label=2]
+	head -> 2
+}
